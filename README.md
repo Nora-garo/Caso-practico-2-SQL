@@ -1,18 +1,21 @@
-# Caso práctico 2: SQL Sabores-del-mundo
+# Caso práctico 2: SQL 
 
-Este repositorio muestra un análisis de datos para un restaurante llamado "Sabores del mundo". El objetivo es identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que menos han gustado a los clientes.
-Para ello se utilizó la herramienta de SQL y se encontraron los siguientes insights:
+Análisis de datos para el restaurante "Sabores del Mundo"
 
-Hallazgos
+Este repositorio presenta un análisis de datos realizado para el restaurante Sabores del Mundo, con el objetivo de identificar los productos del menú con mayor y menor aceptación por parte de los clientes. Para este análisis se utilizó SQL como herramienta principal, lo que permitió obtener los siguientes hallazgos clave:
 
-- El artículo más caro en el menú es el Shrimp Scampi de la categoría Italiana y el más barato es Edamame de la categoría Asiática.
+Hallazgos principales:
 
-- El precio promedio por platillo es de $13.29
+- El platillo más caro del menú es el Shrimp Scampi, perteneciente a la categoría Italiana, mientras que el más económico es el Edamame, de la categoría Asiática.
 
-- Para el periodo 2023-01-01 al 2023-03-31 se registraron un total de 5370 pedidos únicos del menú, registrándose un máximo de 14 artículo por orden.
+- El precio promedio por platillo es de $13.29.
 
-- Los 3 platillos más vendidos fueron: Hamburger, Edamame y Korean Bowl y los menos vendidos son Chicken tacos, Potsickers y Cheese Lasagna.
+- Durante el período comprendido entre el 1 de enero y el 31 de marzo de 2023, se registraron un total de 5,370 pedidos únicos, con un máximo de 14 artículos por orden.
 
-- La categoría más vendida fue la Asiática, seguida por la Italiana, Mexicana y Americana respectivamente. 
+- Los tres platillos más vendidos fueron: Hamburger, Edamame y Korean Bowl.
+Por otro lado, los menos vendidos fueron: Chicken Tacos, Potstickers y Cheese Lasagna.
 
-- La categoría que más ingresos deja en el menú es la Italiana, a pesar de que no es la más vendida.
+- La categoría con mayor número de ventas fue la Asiática, seguida por las categorías Italiana, Mexicana y Americana, en ese orden.
+
+- A pesar de no ser la más vendida, la categoría Italiana es la que genera mayores ingresos, lo cual se atribuye al precio más elevado de sus platillos.
+
