@@ -4,7 +4,7 @@ Análisis de datos para el restaurante "Sabores del Mundo"
 
 Este repositorio presenta un análisis de datos realizado para el restaurante Sabores del Mundo, con el objetivo de identificar los productos del menú con mayor y menor aceptación por parte de los clientes. Para este análisis se utilizó SQL como herramienta principal, lo que permitió obtener los siguientes hallazgos clave:
 
-Hallazgos principales:
+🔎 Hallazgos principales:
 
 - El platillo más caro del menú es el Shrimp Scampi, perteneciente a la categoría Italiana, mientras que el más económico es el Edamame, de la categoría Asiática.
 
