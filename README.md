@@ -11,8 +11,8 @@ Hallazgos
 
 - Para el periodo 2023-01-01 al 2023-03-31 se registraron un total de 5370 pedidos únicos del menú, registrándose un máximo de 14 artículo por orden.
 
--Los 3 platillos más vendidos fueron: Hamburger, Edamame y Korean Bowl y los menos vendidos son Chicken tacos, Potsickers y Cheese Lasagna.
+- Los 3 platillos más vendidos fueron: Hamburger, Edamame y Korean Bowl y los menos vendidos son Chicken tacos, Potsickers y Cheese Lasagna.
 
--La categoría más vendida fue la Asiática, seguida por la Italiana, Mexicana y Americana respectivamente. 
+- La categoría más vendida fue la Asiática, seguida por la Italiana, Mexicana y Americana respectivamente. 
 
--La categoría que más ingresos deja en el menú es la Italiana, a pesar de que no es la más vendida.
+- La categoría que más ingresos deja en el menú es la Italiana, a pesar de que no es la más vendida.
